@@ -1,0 +1,11 @@
+pair,count
+"('choice', 'hard')",23
+"('choice', 'make')",18
+"('choice', 'decision')",10
+"('choice', 'reason')",10
+"('choice', 'dont')",10
+"('become', 'choice')",9
+"('choice', 'want')",9
+"('choice', 'video')",8
+"('decision', 'make')",8
+"('hard', 'make')",8

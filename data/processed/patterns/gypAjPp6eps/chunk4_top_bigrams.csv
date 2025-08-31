@@ -1,0 +1,11 @@
+pair,count
+"('planet', 'star')",105
+"('light', 'star')",91
+"('star', 'would')",76
+"('planet', 'would')",69
+"('could', 'star')",65
+"('alien', 'star')",56
+"('light', 'planet')",54
+"('light', 'would')",53
+"('around', 'star')",52
+"('object', 'star')",52
